@@ -1,0 +1,2 @@
+# EasyPy
+Supports Python beginners.
